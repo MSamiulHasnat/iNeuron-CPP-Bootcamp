@@ -1,2 +1,2 @@
-# iNeuron-C-Bootcamp
+# iNeuron-CPP-Bootcamp
 C++ Bootcamp
